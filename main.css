@@ -1,0 +1,23 @@
+p,
+p.func {
+    font-size: 1em;
+}
+
+p.func {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 1.5em;
+    color: black;
+}
+
+p sub {
+    color: blue;
+    font-style: normal;
+    font-size: 0.55em;
+}
+
+p sup {
+    color: red;
+    font-style: normal;
+    font-size: 0.55em;
+}
